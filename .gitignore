@@ -1,0 +1,10 @@
+__pycache__/
+
+# Environments
+venv/
+
+# Vim stuff
+
+*.swp
+*.swn
+*.swo
